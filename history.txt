@@ -1,0 +1,16 @@
+ 1649  clear
+ 1650  git checkout milkshake-flavours
+ 1651  clear
+ 1652  ls
+ 1653  clear
+ 1654  git checkout master
+ 1655  clear
+ 1656  ls
+ 1657  clear
+ 1658  git checkout history
+ 1659  clear
+ 1660  ls
+ 1661  clear
+ 1662  git branch
+ 1663  clear
+ 1664  history .
